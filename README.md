@@ -1,1 +1,1 @@
-# GPACalculator
+# GPA_CALCULATOR
